@@ -15,8 +15,7 @@
 
 I build production-grade AI systems that solve real enterprise problems — multi-agent pipelines, LLM fine-tuning at scale, real-time anomaly detection, and RAG systems over millions of documents.
 
-- 🤖 **Current focus:** Autonomous multi-agent systems (CrewAI, AutoGen, LangGraph)
-- 🔬 **Researching:** Graph RAG, agent memory architectures, LLM serving optimization
+- 🤖 **Current focus:** Autonomous multi-agent systems (CrewAI, AutoGen, LangGraph), Graph RAG, agent memory architectures, LLM serving optimization
 - 🎓 **MS Computer Science** — University of Central Missouri, 2024
 
 ---
